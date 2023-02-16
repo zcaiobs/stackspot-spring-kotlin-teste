@@ -1,0 +1,9 @@
+name: default
+description: projeto default para criação de pocs
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
