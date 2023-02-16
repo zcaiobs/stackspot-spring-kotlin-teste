@@ -1,0 +1,1 @@
+# About spring-project-default-poc stack
